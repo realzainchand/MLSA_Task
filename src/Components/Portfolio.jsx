@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "cybersec photo";
 
 /**
  * Project list
@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "How to become a Security Engineer 🖥️",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Charting Your Path to Become a Security Engineer with TryHackMe",
+    url: "https://www.linkedin.com/pulse/charting-your-path-become-security-engineer-m-zain-ul-abideen-chand/?trackingId=BUczeptASPaaYAdDtrs%2FQg%3D%3D",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Getting into Cybersecurity Guide",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Watch my detailed video with Mr. Shakeel Ahmad if you are looking for a complete guide to Cybersecurity",
+    url: "https://youtu.be/8GKayjFmm9o?feature=shared",
   },
   {
-    title: "My Resume Site",
+    title: "Hunting Bugs For Money $",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Are you interested in finding bugs and do you wanna get paid and awarded swags by finding them then this complete guide to become a Bug Hunter is for you.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Youtube Channel ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Link to My Youtube channel where I upload crispy and interesting content related to cybersecurity",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];

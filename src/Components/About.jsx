@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Cybersecurity ",
+  "Community Building",
+  "C++ Programming",
+  "Web Pentesting",
+  "Forensics",
+  "Web Designing",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Hello , My name is Zain Chand ... A Cybersecurity Enthusiast ...Welcome to my website";
 
 const About = () => {
   return (
